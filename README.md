@@ -1,8 +1,15 @@
+<img src="https://github.com/user-attachments/assets/e9130bb9-c7d4-4a59-9377-69a1249c6c04" alt="왜 일하는가" align="right" width="200" />
+
 # 왜 일하는가 📚
 
-![표지](https://github.com/user-attachments/assets/e9130bb9-c7d4-4a59-9377-69a1249c6c04)
+> 당신은 어떤 일을 하는가? 그 일을 통해 무엇이 되려 하는가?
 
-> 당신은 어떤 일을 하는가? 그 일을 통해 무엇이 되려 하는가? 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ## 일정 📅
 
